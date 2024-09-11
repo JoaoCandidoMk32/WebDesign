@@ -21,7 +21,8 @@ header {
 }
 
 .logo img {
-    width: 150px;
+    width: 155px;
+    height: 110px;
 }
 
 .header-text h1 {
@@ -47,10 +48,17 @@ header {
     
 }
 
+.card a {
+    color: black;
+    font-weight: 600;
+    list-style: none;
+    list-style: none;
+}
 
 main a:hover {
     text-decoration: underline;
-    color: greenyellow;
+    color: green;
+    list-style: none;
 }
 
 nav ul {
@@ -74,8 +82,9 @@ nav ul li a {
     color: white;
 }
 
+/* Estilos bottom do nav */
 nav ul li a:hover {
-    background-color: #4c894f;
+    background-color: #3ba340;
     border-radius: 15px;
 }
 
