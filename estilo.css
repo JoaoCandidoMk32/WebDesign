@@ -48,6 +48,11 @@ header {
 }
 
 
+main a:hover {
+    text-decoration: underline;
+    color: greenyellow;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -111,6 +116,8 @@ nav ul li:hover ul {
 main {
     padding: 20px;
 }
+
+
 
 .cards {
     display: flex;
@@ -181,6 +188,7 @@ footer {
 
 .footer-links a:hover {
     text-decoration: underline;
+    color: greenyellow;
 }
 
 p {
