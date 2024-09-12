@@ -162,6 +162,7 @@ main {
     transform: scale(1.05); /* Efeito ao passar o mouse */
 }
 
+
 /* Estilo do rodapé */
 footer {
     background: linear-gradient(to right, #0cc0df, #6ac66b);
