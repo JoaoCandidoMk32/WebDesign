@@ -1,3 +1,4 @@
+
 /* Estilos */
 body {
     font-family: Arial, sans-serif;
@@ -46,13 +47,6 @@ header {
     border-radius: 4px;
     cursor: pointer;
     
-}
-
-.card a {
-    color: black;
-    font-weight: 600;
-    list-style: none;
-    list-style: none;
 }
 
 main a:hover {
@@ -128,6 +122,14 @@ main {
 
 
 
+.card a {
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+
 .cards {
     display: flex;
     justify-content: space-around;
@@ -153,6 +155,7 @@ main {
 .card p {
     font-size: 14px;
     color: #333;
+    
 }
 
 .card span {
